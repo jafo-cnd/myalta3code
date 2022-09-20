@@ -1,3 +1,4 @@
+To learn how to version control projects with git
 # myalta3code
 Tracking my code for Alta3 Workshop
 
